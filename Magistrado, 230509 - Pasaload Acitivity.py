@@ -1,4 +1,4 @@
-#agistrado, 230509 - Pasaload Acitivity
+#Magistrado, 230509 - Pasaload Acitivity
 
 import threading
 
